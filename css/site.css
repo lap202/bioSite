@@ -69,6 +69,10 @@ footer {
     width: 100vw;
     color: white;
 }
+footer p {
+    color: white;
+}
+
 
 .pageImage {
     text-align: center;
