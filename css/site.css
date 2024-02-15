@@ -23,10 +23,12 @@ h3 {
 }
 a {
     text-decoration: none;
-    color: black;
+    color: #FF7F11;
+    font-weight:700;
 }
 a:hover {
     text-decoration: underline;
+    color: white;
   }
 img {
     border-radius: 15px;
@@ -45,6 +47,8 @@ img {
 #navBar a, p {
     float: right;
     margin-right: 15px;
+    color: black;
+    font-weight:500;
 }
 #navBar a:hover {
     color: white;
