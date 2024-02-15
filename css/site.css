@@ -7,6 +7,7 @@ body {
 /*Standard styling*/
 p {
     text-align: justify;
+    line-height: 2em;
 }
 h1 {
     color: black;
@@ -69,12 +70,13 @@ footer {
 }
 #LowerPageImageDiv {
     text-align: center;
+    margin-top: 5em;
 }
 #LowerPageImageDiv img {
     height: 100%;
 }
 #BottomImage {
-    margin: 25px;
+    
     width: 30vw;
 }
 
